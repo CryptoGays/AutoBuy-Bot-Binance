@@ -1,73 +1,80 @@
 # AutoBuy-Bot-Binance
 
-Гайд по уставноке бота для Binance
+Why is this necessary, you ask? I will answer, for example, you found an interesting NFT that amateurs like you would like to buy a lot
+This is where this bot comes to meet you, which will help you
+You can easily buy any NFT as our code is the most optimized and fastest
+We tested this bot for a long time and were going to make it better and better, and now, after long tests, we succeeded
+And we are happy to share it with you.
+All the best to you and happy shopping!
+
+Binance Bot Setup Guide
  
-Устанавливаем PYTHON и
-долавляего его в патч для вашего
-пк
-ссылка на установку с оф.сайта -
+Install Python and
+topping it up in a patch for yours
+PC
+link to install from offsite -
 https://www.python.org/downloads/
-устанавливаем и прожимаем галочку на
-добавить в PATH
+install and check the box
+add to PATH
 
 
-После установки питона запускаем [1] install_requirement
-Данное приложение установит все необходимые библиотеки 
-И настраиваем бота
-productIdToAuction - айди рандомного
-аукциона со вторички. Бот
-автоматически откроет страницу и
-поставит ставку там. 
-Поэтому
-расчитывайте баланс сразу,
-закидывайте чуть побольше.
-беру саукцион и копирую ид, 13139092 (у
-вас должен быть другой)
-requestsNumber - количество
-запросов на покупку мистери бокса.
-Ставить рекомендую больше 1к
-запросов.
+After installing python, run [1] install_requirement
+Application installed all required libraries
+And set up the bot
+productIdToAuction - random ID
+secondary auction. Bot
+automatically
+will deliver there.
+That's why
+calculate the balance immediately,
+throw in a little more.
+I take the action and copy the id, 13139092 (at
+you must be different)
+requestNumber - number
+came to buy a mystery box.
+Put a probability greater than 1k
+import.
 
-Я на этот сейл поставлю 2000
-saleTime - время в unicode начала
-сейла. 
-На сайте выбираете
-обязательно свое локальное время
--3 секунды от начала сейла.
-время на этот сейл ставлю - 1637751596
-сейл 24.11 в 13:00 по киеву 11:00 GTM
-(нужно выставлять -3 секунды от
-сейла)
-время брать здесь - https://www.cy-pr.com/tools/time/
-js. Number - Количество боксов для
-покупки. ProductId - продукт айди
-сейла. Его взять можно из ссылки
-на сам сейл.
-количество, тут все просто на этот
-сейл 2 штуки на аккаунт пишу 2
-и id сейла боксов копируем так же как и
-с аукциона
+I will put 2000 on this sale
+saleTime - start time in unicode
+sale.
+Choose on the site
+necessarily your random time
+-3 seconds from the start of the sale.
+I put time for this sale - 1637751596
+sale 24.11 at 13:00 Kyiv time 11:00 GTM
+(you need to set -3 seconds from
+sale)
+take time here - https://www.cy-pr.com/tools/time/
+js. Quantity - Number of boxes for
+purchases. ProductId - product id
+sale. It can be taken from links
+to the sale itself.
+quantity, everything is simple on this
+sale 2 pieces on the account I write 2
+and the id of the sale of the boxes are copied in the same way as
+from the auction
 
-Сохраняем данный файл и
-запускаем следующий ([2] run.bat)
-после того как открыли просто запускаем
-его и должен открыться хром после
-проверок
-теперь авторизируемся через QR код с
-помощью телефона
-после авторизации возвращаемся к
-файлу который запускали и нажимаем
-ENTER
-У нас запускается окно с аукционом
-и через несколько секунд у вас должен
-пойти таймер
+Save this file and
+run the following ([2] run.bat)
+once opened just run
+its should open chrome after
+surveys
+now log in via QR code with
+from the phone
+after logging back in
+file that run and push
+TO COME IN
+We have closure with litigation
+and after a few seconds you should
+go timer
 
-Вот и все, бот работает и настроен,
-советую перед сейлом боксов взять
-новый аукцион и все перепроверить,
-бот возьмет боксы со страницы
-аукциона ничего делать не нужно
-просто должна быть открыта вкладка
+That's all, the bot works according to mood,
+I advise you to take boxes before the sale
+new auction and double check everything,
+the bot will take the boxes from the page
+auction does not need to do anything
+just need to have a tab open
 
 
-Если у вас есть вопросы можете обратится к нашему менеджеру в Discrod (Shirlak#3716)
+If you have questions, you can refer to the placement on Disrod (Shirlak#3716)
